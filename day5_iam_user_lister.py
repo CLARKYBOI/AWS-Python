@@ -10,7 +10,10 @@ def list_users():
         users = response['Users']
         
         for user in users:
-            print(f"Username: {user.get('UserName')}, CreateDate: {user.get('CreateDate')}, PasswordLastUsed: {user.get('PasswordLastUsed')}")
+            print(f"Username: {user.get('UserName')}, "
+                  f"CreateDate: {user.get('CreateDate')}, "
+                  f"PasswordLastUsed: {user.get('PasswordLastUsed')}")
+                  
     except Exception as e:
         print(f"Error listing IAM users: {e}")
 
