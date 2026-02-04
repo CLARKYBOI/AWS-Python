@@ -62,6 +62,14 @@ Cybersecurity professional with Security+ certification developing hands-on AWS 
 - Identifies dormant accounts (security risk)
 - Supports least-privilege principle
 
+#### Day 6: CloudWatch Security Monitoring
+**Security Focus:** Threat detection through metrics analysis
+- Monitors EC2 CPU utilization over 24-hour periods
+- Detects potential cryptomining or compromised instances
+- Establishes baseline for anomaly detection
+- Foundation for automated security alerting
+
+### Week 2: ()
 ---
 
 ## 🎯 Skills Demonstrated
