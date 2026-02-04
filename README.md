@@ -1,6 +1,6 @@
 # 🔒 AWS Security Automation Portfolio
 
-**30-Day Security-Focused AWS Automation Challenge**
+**Security-Focused AWS Automation**
 
 Building practical cloud security tools and automation scripts using Python and AWS boto3.
 
